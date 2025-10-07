@@ -36,10 +36,6 @@ You can check my daily SQL practice here: [SQL Daily Challenge Repository](https
 
 ---
 
-## 📈 GitHub Stats
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiPrashar&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sakshi-prashar-b9365a313)  
